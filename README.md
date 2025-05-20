@@ -22,4 +22,4 @@ console.log(constants.errno.ENOENT); // 'ENOENT'
 - `errno` — Common error codes (e.g., `ENOENT`, `EACCES`)
 
 ## License
-MI
+MIT
