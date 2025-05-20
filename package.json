@@ -1,9 +1,17 @@
 {
-  "name": "emoji-logger",
+  "name": "emoji-logger-whtech",
   "version": "1.0.0",
   "description": "Simple logger with emojis for success, error, warning, and info messages",
   "main": "index.js",
-  "keywords": ["logger", "emoji", "console", "logging"],
-  "author": "Nama Kamu",
-  "license": "MIT"
+  "keywords": [
+    "logger",
+    "emoji",
+    "console",
+    "logging"
+  ],
+  "author": "WHTech",
+  "license": "MIT",
+  "dependencies": {
+    "emoji-logger": "^1.0.16"
+  }
 }
