@@ -1,9 +1,9 @@
 {
-  "name": "my-browser-constants",
+  "name": "emoji-logger",
   "version": "1.0.0",
-  "description": "A browser-friendly module that exposes Node.js-style constants",
+  "description": "Simple logger with emojis for success, error, warning, and info messages",
   "main": "index.js",
-  "keywords": ["constants", "browser", "fs", "os", "errno"],
+  "keywords": ["logger", "emoji", "console", "logging"],
   "author": "Nama Kamu",
   "license": "MIT"
 }
