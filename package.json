@@ -1,0 +1,9 @@
+{
+  "name": "my-browser-constants",
+  "version": "1.0.0",
+  "description": "A browser-friendly module that exposes Node.js-style constants",
+  "main": "index.js",
+  "keywords": ["constants", "browser", "fs", "os", "errno"],
+  "author": "Nama Kamu",
+  "license": "MIT"
+}
